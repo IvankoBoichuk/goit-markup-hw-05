@@ -586,6 +586,7 @@ img {
   background-color: var(--OCEAN);
   border: none;
   color: var(--CLOUD);
+  fill: var(--CLOUD);
 }
 .form--btn {
   display: block;
