@@ -328,6 +328,9 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
+.footer-social {
+  margin-right: 80px;
+}
 .footer-social-list {
   display: flex;
   gap: 16px;
