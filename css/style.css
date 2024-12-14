@@ -637,3 +637,15 @@ img {
 .footer-from--input::placeholder {
   color: var(--WHITE);
 }
+
+.footer-from--btn {
+  min-width: 165px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-from--icon {
+  margin-left: 16px;
+}
