@@ -501,6 +501,9 @@ img {
 .form--item {
   margin-bottom: 8px;
 }
+.form--item-textarea {
+  margin-bottom: 16px;
+}
 .form--input-wrapper {
   position: relative;
   display: flex;
