@@ -580,11 +580,12 @@ img {
   justify-content: center;
   fill: transparent;
   margin-right: 8px;
+  color: var(--WHITE);
 }
 .form--input-privacy:checked ~ .form--label-privacy > .form--checkbox {
   background-color: var(--OCEAN);
   border: none;
-  fill: var(--CLOUD);
+  color: var(--CLOUD);
 }
 .form--btn {
   display: block;
